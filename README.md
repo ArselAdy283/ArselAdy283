@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Aku ArselAdy</h1>
-<p>Aku developer magang<p>
+<p align="center">Aku developer magang<p>
 <p align="center">
      <img src="https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif" alt="minecraft" width="50%" height="50%">
 </p>
