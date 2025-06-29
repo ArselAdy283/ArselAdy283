@@ -2,7 +2,7 @@
 <p align="center">I am an intern developer who enjoys learning new things.😆</p>
 
 <p align="center">
-    <img src="https://i.imgur.com/ZaBILp8.png" alt="skin"width="20%" height="20%">
+    <img src="https://i.imgur.com/ZaBILp8.png" alt="skin"width="10%" height="10%">
 </p>
 <p align="center">
     <img src="https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif" alt="minecraft" width="50%" height="50%">
