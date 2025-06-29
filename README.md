@@ -15,6 +15,8 @@
     <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,discord,vscode" />
   </a>
 </p>
-<h1>Statistic</h1>
+<h1>Play with me</h1>
+<img src="https://raw.githubusercontent.com/ArselAdy283/ArselAdy283/output/snake.svg" alt="Snake animation" />
 
+###
 
