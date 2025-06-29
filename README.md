@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,discord,vscode" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,discord,git,vscode" />
   </a>
 </p>
 <h3 align="center">Play with me</h3>
