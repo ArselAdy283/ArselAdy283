@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Aku ArselAdy</h1>
 <p align="center">Aku developer magang<p>
 
-<p align="center" style="margin-bottom: -40px;">
+<p align="center" style="margin-bottom: -40000px;">
      <img src="https://i.imgur.com/ZaBILp8.png" alt="skin" width="20%" height="20%">
 </p>
 
