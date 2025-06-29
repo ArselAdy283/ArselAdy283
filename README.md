@@ -4,7 +4,7 @@
 <p align="center">
     <img src="https://i.imgur.com/ZaBILp8.png" alt="skin"
          width="20%" height="20%"
-         style="position: relative; top: 70px;">
+         style="position: relative; top: 700px;">
 </p>
 
 <p align="center">
