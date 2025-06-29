@@ -2,7 +2,7 @@
 <p align="center">Aku developer magang<p>
 
 <p align="center">
-     <img src="https://i.imgur.com/ZaBILp8.png" alt="skin" width="20%" height="20%" style="margin-bottom: -40px;">
+     <img src="https://i.imgur.com/ZaBILp8.png" alt="skin" width="20%" height="20%" style="margin-bottom: -70px;">
 </p>
 
 <p align="center">
