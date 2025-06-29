@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'am ArselAdy</h1>
-<p align="center">I am an intern developer who enjoys learning new things.😆</p>
+<p align="center">I am a beginner developer who is always learning new things😆</p>
 
 <p align="center">
     <img src="https://i.imgur.com/ZaBILp8.png" alt="skin"width="10%" height="10%">
