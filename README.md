@@ -15,3 +15,8 @@
     <img src="https://skillicons.dev/icons?i=cpp,py,html,css,js,discord,vscode" />
   </a>
 </p>
+<h1>Statistic</h1>
+![](https://github-readme-stats.vercel.app/api?username=ArselAdy283&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ArselAdy283&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArselAdy283&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
