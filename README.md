@@ -7,7 +7,7 @@
 <p align="center">
     <img src="https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif" alt="minecraft" width="50%">
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ArselAdy283" alt="ArselAdy283" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ArselAdy283&color=orange" alt="ArselAdy283" /></p>
 <br>
 
 <p align="center">
