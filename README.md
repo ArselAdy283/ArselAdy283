@@ -2,9 +2,6 @@
 <p align="center">I am a beginner developer who is always learning new things😆</p>
 
 <p align="center">
-    <img src="https://i.imgur.com/ZaBILp8.png" alt="skin"width="10%">
-</p>
-<p align="center">
     <img src="https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif" alt="minecraft" width="50%">
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ArselAdy283&color=orange" alt="ArselAdy283" /></p>
