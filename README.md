@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ega Adyatma</h1>
-<p align="center">As a Software Engineering student, I’m currently focusing on improving my skills in Front-End Development.😆</p>
+<p align="center">As a Software Engineering student, <br>I’m currently focusing on improving my skills in Front-End Development.😆</p>
 
 <p align="center">
     <img src="https://i.pinimg.com/originals/da/e3/6a/dae36a74337de05e249ce5afcec907c1.gif" alt="minecraft" width="50%">
