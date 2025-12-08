@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,ts,tailwind,nodejs,react,nextjs,laravel,php,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,html,css,js,ts,tailwind,nodejs,react,nextjs,php,mysql,git,github,vscode" />
   </a>
 </p>
 <img src="https://raw.githubusercontent.com/ArselAdy283/ArselAdy283/output/snake.svg" alt="Snake animation" />
