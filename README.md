@@ -18,5 +18,6 @@
 <img src="https://raw.githubusercontent.com/ArselAdy283/ArselAdy283/output/snake.svg" alt="Snake animation" />
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arselady283&show_icons=true&theme=radical"
+    <img src="https://github-readme-stats.vercel.app/api?username=arselady283&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arselady283&show_icons=true&locale=en&layout=compact&theme=radical" />
 </p>
