@@ -18,6 +18,26 @@
 <img src="https://raw.githubusercontent.com/ArselAdy283/ArselAdy283/output/snake.svg" alt="Snake animation" />
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arselady283&show_icons=true&theme=radical" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arselady283&show_icons=true&locale=en&layout=compact&theme=radical" />
+    <picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=arselady283&hide=issues&show_icons=true&theme=radical&count_private=true&card_width=400"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=spitulax&hide=issues&show_icons=true&theme=radical&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=arselady283&hide=issues&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arselady283&layout=compact&theme=radical&langs_count=10&card_width=400"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=spitulax&layout=compact&theme=radical&langs_count=10&card_width=400"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arselady283&layout=compact&theme=radical&langs_count=10&card_width=400" alt="Most Used Languages" width="350" />
+</picture>
 </p>
