@@ -12,7 +12,7 @@
     <img src="https://skillicons.dev/icons?i=py,cpp,java,php,js,ts,html,css,tailwind,nodejs,react,nextjs,flutter,mysql,git" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,github,vscode,idea,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,github,vscode,idea,androidstudio" />
   </a>
 </p>
 <img src="https://raw.githubusercontent.com/ArselAdy283/ArselAdy283/output/snake.svg" alt="Snake animation" />
